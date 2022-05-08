@@ -1,0 +1,3 @@
+If i have to choose from Filter() and find i choose filter():
+
+I use filter() function in JavaScript to filter the object array based on attributes. The filter() function will return a new array containing all the array elements that pass the given condition. If no elements pass the condition it returns an empty array
